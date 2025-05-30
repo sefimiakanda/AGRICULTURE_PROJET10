@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3xXaLaFM_"
-#define BLYNK_TEMPLATE_NAME "Smart Irrigation System with ESP32"
-#define BLYNK_AUTH_TOKEN "MAgifsJ32VZovXsdfygeFY6IWfdhFLsLjfgjk7GbpUb"
+#define BLYNK_TEMPLATE_ID "TMPL2lrnszK33"
+#define BLYNK_TEMPLATE_NAME "Agriculture automatique"
+#define BLYNK_AUTH_TOKEN "544yPc7qPXuUBp76Gf-Y_OTF__DAAgl1"
 
 
 #define BLYNK_PRINT Serial
